@@ -1,6 +1,6 @@
 # Initial page
 
-Book
+Bookq
 
 {% file src=".gitbook/assets/percentage-completed.png" %}
 
